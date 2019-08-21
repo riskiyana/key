@@ -1,5 +1,5 @@
 # keyboard kiri kanan 
 
 
-# install sndiri jangan manja tod
+# install sendiri jangan manja tod
 
